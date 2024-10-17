@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>用hexo+github搭建个人博客</title>
+      <link href="/2024/10/18/%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2024/10/18/%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>解决hexo搭配typora在文档中插入图片上传github图片无法显示问题</title>
       <link href="/2024/10/17/%E8%A7%A3%E5%86%B3hexo%E6%90%AD%E9%85%8Dtypora%E5%9C%A8%E6%96%87%E6%A1%A3%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0github%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/"/>
       <url>/2024/10/17/%E8%A7%A3%E5%86%B3hexo%E6%90%AD%E9%85%8Dtypora%E5%9C%A8%E6%96%87%E6%A1%A3%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0github%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p><img src="/../imgs/%E8%A7%A3%E5%86%B3hexo%E6%90%AD%E9%85%8Dtypora%E5%9C%A8%E6%96%87%E6%A1%A3%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0github%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA%E9%97%AE%E9%A2%98/image-20241017234517524.png" alt="image-20241017234517524"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="一、在-项目-source中创建imgs文件夹"><a href="#一、在-项目-source中创建imgs文件夹" class="headerlink" title="一、在 项目&#x2F;source中创建imgs文件夹"></a>一、在 项目&#x2F;source中创建imgs文件夹</h2><img src="../imgs/解决hexo搭配typora在文档中插入图片上传github图片无法显示问题/image-20241017235544967.png" alt="image-20241017235544967" style="zoom:50%;" /><h2 id="二、Typora配置"><a href="#二、Typora配置" class="headerlink" title="二、Typora配置"></a>二、Typora配置</h2><p>文件–&gt;图像–&gt;复制指定路径–&gt;..&#x2F;imgs&#x2F;${filename}</p><img src="../imgs/解决hexo搭配typora在文档中插入图片上传github图片无法显示问题/image-20241017235701577.png" alt="image-20241017235701577" style="zoom:50%;" /><p>这里就配置好了，可以直接复制图片，且正常显示</p>]]></content>
       
       
       
@@ -21,7 +34,7 @@
       <link href="/2024/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2024/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p><img src="/1.jpg" alt="一张示例图片"></p>]]></content>
+        <content type="html"><![CDATA[<img src="../imgs/第一篇文章/头像.jpg" style="zoom:50%;" />]]></content>
       
       
       
